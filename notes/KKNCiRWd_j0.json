@@ -1,0 +1,17 @@
+{
+  "records_ref": "RM-2026-0417",
+  "captured_at": "2026-10-15",
+  "spoken_word_count": 2380,
+  "competitor_brand_mentions": [
+    "Vantage Health"
+  ],
+  "regulated_topic_flags": [
+    "medical_claims"
+  ],
+  "third_party_footage": false,
+  "explicit_language": false,
+  "music_licensing": "cleared",
+  "asset_id": "KKNCiRWd_j0",
+  "capture_source": "records-vendor-scan",
+  "content_language": "en"
+}
